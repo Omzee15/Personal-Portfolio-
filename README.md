@@ -1,62 +1,12 @@
-# Welcome to your Bento Portfolio project
+Portfolio Website - View Live
+Overview
 
-## Project info
+Check out my personal portfolio website live at https://robom.netlify.app/ to explore my projects, experience, education, and achievements. This website is built using React, Tailwind CSS, and Spline, featuring an interactive 3D scene, a carousel of featured projects, and social media integrations for easy contact.
+Key Features
 
-**URL**: https://lovable.dev/projects/a90bc5f7-0c81-46f8-b043-afe93a3c8561
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/a90bc5f7-0c81-46f8-b043-afe93a3c8561) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
+    Hero Section: Displays the user's name, role, and quick contact buttons.
+    3D Visuals: Integrates a Spline 3D scene for an interactive experience.
+    Project Showcase: Uses a carousel to highlight featured projects with demo and source links.
+    Education & Experience: Organized sections detailing academic background and work history.
+    Achievements: Lists major accomplishments in hackathons and competitions.
+    Social Media Links: Quick access to GitHub, LinkedIn, and email.
